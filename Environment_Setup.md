@@ -1,7 +1,7 @@
 Instructions given on this website: https://www.w3schools.com/react/react_getstarted.asp
 
 ## Setting up a React Environment
-If you have NPM and Node.js installed, you can create a React application by first installing the create-react-app.
+If you have NPM and Node.js installed, you can create a React application by first *installing the create-react-app*.
 
 If you've already created the create-react-app you can skip this section.
 
