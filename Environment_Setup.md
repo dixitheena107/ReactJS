@@ -1,3 +1,4 @@
+## Beginner Level
 Instructions given on this website: https://www.w3schools.com/react/react_getstarted.asp
 
 ## Setting up a React Environment
